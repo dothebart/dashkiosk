@@ -45,7 +45,7 @@ To install it, you need to execute the following step:
      some server. It includes both the receiver and the server
      part. Then::
 
-         $ cd dist && npm install --production
+         $ cd build && npm install --production
 
   8. If you want to use the Android application, you still need
      to build it and install it. See :doc:`android`.
